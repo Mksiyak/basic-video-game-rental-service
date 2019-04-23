@@ -1,1 +1,1 @@
-# basic-video-game-rental-service
+All details are are there in project report inside project folder
