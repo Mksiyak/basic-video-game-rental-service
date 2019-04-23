@@ -1,0 +1,6 @@
+javac -cp "C:\Users\DELL\Desktop\javaprograms;C:\Users\DELL\Desktop\javaprograms\jars\mysql-connector-java-5.1.42-bin.jar" myproject.java
+
+
+java -cp "C:\Users\DELL\Desktop\javaprograms;C:\Users\DELL\Desktop\javaprograms\jars\mysql-connector-java-5.1.42-bin.jar" myproject
+
+loccker password : thisislocker;
